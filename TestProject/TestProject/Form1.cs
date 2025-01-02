@@ -13,6 +13,9 @@ namespace TestProject
             
             //Branch 1
             MessageBox.Show("Message 1"); // New Message in Branch 1
+
+            // Branch 2
+            MessageBox.Show("Message 2"); // New Message in Branch 2
         }
     }
 }
