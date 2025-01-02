@@ -10,6 +10,9 @@ namespace TestProject
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Message 1");
+            
+            //Branch 1
+            MessageBox.Show("Message 1"); // New Message in Branch 1
         }
     }
 }
