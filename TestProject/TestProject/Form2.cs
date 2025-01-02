@@ -19,7 +19,7 @@ namespace TestProject
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Created New Project in Branch 5");
+            MessageBox.Show("Created New Form in Branch 5");
         }
     }
 }
