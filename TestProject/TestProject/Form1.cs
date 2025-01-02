@@ -23,6 +23,12 @@ namespace TestProject
             MessageBox.Show("Message 1"); // New Message in Branch 3
             MessageBox.Show("Message 2"); // New Message in Branch 3
             MessageBox.Show("Message 3"); // New Message in Branch 3
+
+            // Branch 4
+            MessageBox.Show("Message 1"); // New Message in Branch 4
+            MessageBox.Show("Message 2"); // New Message in Branch 4
+            MessageBox.Show("Message 3"); // New Message in Branch 4
+            MessageBox.Show("Message 4"); // New Message in Branch 4
         }
     }
 }
