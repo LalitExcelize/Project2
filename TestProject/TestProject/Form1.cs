@@ -10,6 +10,7 @@ namespace TestProject
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Message 1");
+<<<<<<< Updated upstream
             
             //Branch 1
             MessageBox.Show("Message 1"); // New Message in Branch 1
@@ -36,6 +37,10 @@ namespace TestProject
             MessageBox.Show("Message 3"); // New Message in Branch 5
             MessageBox.Show("Message 4"); // New Message in Branch 5
             MessageBox.Show("Message 5"); // New Message in Branch 5
+=======
+            MessageBox.Show("Message 2");
+            MessageBox.Show("Message 3");
+>>>>>>> Stashed changes
         }
     }
 }
